@@ -34,7 +34,7 @@ Project ini menggabungkan todo list, rutinitas harian, kalender, mode fokus, Pom
 
 ## 🗂️ Struktur Project
 ```
-Planner-Wall-patch2.html   # Semua UI + logic dalam satu file
+index.html   # Semua UI + logic dalam satu file
 ```
 
 ## 🚀 Ide Pengembangan Selanjutnya
